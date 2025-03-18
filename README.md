@@ -1,1 +1,1 @@
-# Amazon-Landing-page
+# Amazon-Landing-page using HTML AND CSS
